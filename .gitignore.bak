@@ -9,7 +9,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-electron.manifest.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -100,6 +99,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+electron.manifest.json
 
 # Chutzpah Test files
 _Chutzpah*
