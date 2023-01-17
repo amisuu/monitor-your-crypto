@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoChecker.Domain", "CryptoChecker.Domain\CryptoChecker.Domain.csproj", "{57839FB6-80EF-47CB-8B2C-5D1A9C8A8FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoChecker.Infrastructure", "CryptoChecker.Infrastructure\CryptoChecker.Infrastructure.csproj", "{B16D3DD0-E57C-42A2-9238-CBED42D63D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoChecker.Application", "CryptoChecker.Application\CryptoChecker.Application.csproj", "{F77EED2D-6290-45FD-92A8-64CA6088A328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoChecker.WebApp", "CryptoChecker.WebApp\CryptoChecker.WebApp.csproj", "{28098FE9-8C55-48AE-867F-AD64490B2B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57839FB6-80EF-47CB-8B2C-5D1A9C8A8FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57839FB6-80EF-47CB-8B2C-5D1A9C8A8FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57839FB6-80EF-47CB-8B2C-5D1A9C8A8FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57839FB6-80EF-47CB-8B2C-5D1A9C8A8FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16D3DD0-E57C-42A2-9238-CBED42D63D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16D3DD0-E57C-42A2-9238-CBED42D63D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16D3DD0-E57C-42A2-9238-CBED42D63D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16D3DD0-E57C-42A2-9238-CBED42D63D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77EED2D-6290-45FD-92A8-64CA6088A328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77EED2D-6290-45FD-92A8-64CA6088A328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77EED2D-6290-45FD-92A8-64CA6088A328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77EED2D-6290-45FD-92A8-64CA6088A328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28098FE9-8C55-48AE-867F-AD64490B2B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28098FE9-8C55-48AE-867F-AD64490B2B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28098FE9-8C55-48AE-867F-AD64490B2B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28098FE9-8C55-48AE-867F-AD64490B2B91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDD3366C-8E10-4B2C-84D8-93171D458F7F}
+	EndGlobalSection
+EndGlobal
