@@ -99,6 +99,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.electron.manifest.json
 
 # Chutzpah Test files
 _Chutzpah*
